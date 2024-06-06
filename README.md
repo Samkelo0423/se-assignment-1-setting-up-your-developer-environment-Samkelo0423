@@ -71,7 +71,7 @@ This assignment aims to familiarize me with the tools and configurations necessa
 #### 5. Install Package Managers
 - **Task:** Install pip for Python.
 
-**Steps:**
+**Steps:* *
 1. Pip should be installed with Python by default. I verified it by running:
    ```bash
    pip --version
